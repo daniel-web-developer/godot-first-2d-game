@@ -1,5 +1,6 @@
-# Dodge the Creeps 2D assets
+# My first Godot  game
 
-Used by the "Your first 2D game" tutorial:
+This is a simple project I built by following [this](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html) tutorial.
 
-https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html
+It's not much but everyone needs to start somewhere.
+
